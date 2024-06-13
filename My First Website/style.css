@@ -1,0 +1,38 @@
+@font-face {
+    /*Font familt is whta ee are naming the font */
+    font-family: playground;
+    src: url(fonts/Playground.ttf);
+}
+
+
+/* The universal Selector changes all tags */
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+/* override a tags presets by entering its name */
+body    {
+    background-color: rgb(255,250,205);
+    font-family: playground;
+    
+}
+
+
+p {
+    color: purple;
+
+}
+h1 {
+
+color: gray;
+}
+
+
+a:link, a:visited {
+    color:;
+    text-decoration: double;
+
+
+}

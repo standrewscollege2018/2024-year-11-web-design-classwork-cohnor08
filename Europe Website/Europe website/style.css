@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    padding:15px 30px;
+    background-color: #FFF3E4;
+    font-family: 'Lato', sans-serif;
+    color: #333333;
+}
+
+h1{
+    color: #FF6F61;
+    font-family: 'Pacifico', cursive;
+}
+
+p{
+    color: #333333;
+    font-family: 'Lato', sans-serif;
+    margin-bottom: 10px;
+}
+
+h2{
+    color: #E94F37;
+    font-family: 'Pacifico', cursive;
+    margin-top:20px;
+}
+
+
+
+a:link{
+    color: #FF4500;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+
+
+}
+a:visited{
+    color: #CD5C5C;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+a:hover{
+    color: #E94F37;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+ul {
+    margin-left: 30px;
+}
+
